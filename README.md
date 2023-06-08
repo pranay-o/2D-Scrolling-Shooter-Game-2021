@@ -4,4 +4,4 @@ This repository contains the source code for a side-scrolling platformer game im
 
 This repository contains the source code for a level editor that allows users to create and edit levels for the game. The program provides a graphical interface where users can place and remove tiles on a grid to design their game levels.
 
-Source code fro both are available upon request
+Source code for both are available upon request
